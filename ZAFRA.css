@@ -1,0 +1,199 @@
+body {
+    font-family: Times New Roman;
+    text-align: left;
+    margin: 10px;
+
+.white-text {
+        color: black;
+    }
+    
+    margin: 50;
+    padding: 50;
+    background-image: url(happy.jpg);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Brush Script MT;
+    text-align: center;
+    text-decoration: italic;
+    font-size: 50px;
+    color:orange
+    
+    
+    
+}
+p.para2 {
+    text-align: center;
+    background-color: rgb(235, 201, 143);
+    font-family: Script MT;
+    font-size: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    border-radius: 20px;
+}
+p.para3 {
+    text-align: center;
+    background-color: rgb(235, 201, 143);
+    font-family: Script MT;
+    font-size: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    border-radius: 20px;
+}
+p.para4 {
+    text-align:center;
+    background-color: #ebc98f;
+    font-family: Script MT;
+    font-size: 20px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#navbar ul{
+    font-size: 15px;
+    padding: 5px;
+    list-style-type: none;
+    text-align: center;
+    background-color: rgb(235, 201, 143);
+    border-radius: 5px;
+}
+#navbar ul li {
+    display: inline;
+    word-spacing: 15px;
+    font-size: 25px;
+}
+#navbar ul li a {
+    text-decoration: none;
+    background-color: rgb(235, 201, 143);
+    color:black
+}
+#navbar ul li a:hover {
+    color: white;
+    background-color: #c9830b
+
+}
+p.para5 {
+    text-align:left;
+    color: white;
+    background-color: black;
+    font-family: Cambria;
+    font-size: 20px;
+    border-color: red;
+    border-style:dashed;
+    border-radius: 25px;
+    border-width: 7px;
+    padding: 20px;
+}
+#navbar ol{
+    text-align:left;
+    color: white;
+    background-image: url(disaster.jpg);
+    font-family: Cambria;
+    font-size: 30px;
+    border-color: red;
+    border-style:dashed;
+    border-radius: 25px;
+    border-width: 7px;
+    padding: 40px;
+}
+
+h3 {
+    font-family: Brush Script MT;
+    text-align: center;
+    text-decoration: italic;
+    font-size: 50px;
+    color:orange
+}
+p.para6 {
+    text-align: left;
+    background-image: url(cooking.jpg);
+    font-family: Cambria;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+p.para7 {
+    text-align: right;
+    background-image: url(sleeping.png);
+    font-family: Cambria;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+p.para8 {
+    text-align: left;
+    background-image: url(do.webp);
+    font-family: Cambria;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+p.para9 {
+    text-align: right;
+    background-image: url(chessing.jpg);
+    font-family: Cambria;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+p.para10 {
+    text-align: left;
+    background-image: url(volley.jpg);
+    font-family: Cambria;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+p.para11 {
+    text-align: right;
+    background-image: url(online.avif);
+    font-family: Cambria;
+    font-size: 40px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+}
+h4 {
+    font-family: Brush Script MT;
+    text-align: center;
+    text-decoration: italic;
+    font-size: 50px;
+    color:orange
+}
+.highlight1 {
+    background-color: red;
+}
+.highlight2 {
+    background-color: black;
+    color: white;
+}
+h5 {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    font-style: normal;
+    font-family: Cambria;
+}
+
